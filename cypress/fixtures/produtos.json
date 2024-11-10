@@ -1,0 +1,20 @@
+[
+    {
+        "nomeProduto": "Zeppelin Yoga Pant", 
+        "tamanho": "33",
+        "cor": "Blue",
+        "quantidade": 3
+    },
+    {
+        "nomeProduto": "Chaz Kangeroo Hoodie", 
+        "tamanho": "M",
+        "cor": "Black",
+        "quantidade": 5
+    },
+    {
+        "nomeProduto": "Geo Insulated Joggin Pant", 
+        "tamanho": "34",
+        "cor": "Green",
+        "quantidade": 10
+    }
+]
